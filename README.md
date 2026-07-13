@@ -72,8 +72,7 @@
 
 <p align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=anotherhalf004&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/anotherhalf004"
+    <img src="https://render.gitanimals.org/farms/anotherhalf004"
       width="600"
       height="300"
     />
