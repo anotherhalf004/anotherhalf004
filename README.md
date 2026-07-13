@@ -51,7 +51,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:devx04.err0r@gmail.com">
+  <a href="mailto:sanskar.j2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/anotherhalf004">
